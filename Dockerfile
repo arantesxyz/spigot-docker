@@ -1,5 +1,9 @@
 FROM java:8
-MAINTAINER John Paul Alcala jp@jpalcala.com
+
+# Gustavo (me) is not the original creator of the image
+# I just made some changes and that's why i added myself as a maintainer of THIS image
+# If you need help with the original image please follow the forked from directory
+MAINTAINER Gustavo Arantes gustavo@arantes.xyz
 
 # grab gosu for easy step-down from root
 RUN gpg --keyserver pool.sks-keyservers.net --recv-keys B42F6819007F00F88E364FD4036A9C25BF357DD4 \
