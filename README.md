@@ -9,7 +9,7 @@ Please see forked repository for the original image
 
 ## Sobre esta imagem
 
-Essa é uma imagem Docker para iniciar um servidor Spigot rápidamente, com mínimo esforço possível.
+Essa é uma imagem Docker para iniciar um servidor Spigot rápidamente, com o mínimo esforço possível.
 
 Essa imagem foi baseada no `dlord/spigot-docker`, com algumas modificações, traduções e melhorias.
 
